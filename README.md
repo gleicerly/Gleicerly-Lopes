@@ -132,3 +132,8 @@ Clique em Commit changes
 ✔️ Adicionar tags (podcast, IA generativa, DIO, narrativa, áudio)
 ✔️ Inserir o link do áudio (GitHub gera automaticamente)
 ✔️ Adicionar imagens no README (posso criar código pra isso se quiser)
+
+
+GLEICE LOPES
+LINKEDIN: https://www.linkedin.com/in/gleice-lopes-03009891/
+11-99940-8889
