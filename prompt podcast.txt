@@ -1,0 +1,8 @@
+PROMPT DO ÁUDIO (arquivo: prompt_audio.txt)
+
+Prompt para gerar o podcast no Google AI Studio:
+
+Narre em tom acolhedor, calmo e emocional o texto a seguir, como se fosse um episódio de podcast de até 4 minutos, destinado a mães solo que estão se reconstruindo após o divórcio ou desde a gravidez. A voz deve transmitir empatia, força, acolhimento e leveza, com ritmo suave e pausas naturais.
+
+Texto:
+Bem-vinda ao ‘Entre Tarefas e Abraços’, o diário de uma mãe solo. Aqui é um espaço seguro para conversarmos sobre recomeços, dores silenciosas e a força que nasce entre o caos e o amor. Hoje falamos sobre o momento em que tudo parece quebrar — e a gente precisa juntar os pedaços. Muitas de nós acordamos percebendo que a vida não saiu como planejado. O casamento acabou, o apoio não veio, ou talvez você tenha sido mãe solo desde a gravidez. Ninguém vê as noites chorando no banho ou a força que você faz para continuar. Mas isso não é fracasso — é renascimento. Renascer dói, mas liberta. A cada dia você descobre que é mais forte do que imaginava. Seu filho não precisa de perfeição, precisa de você — verdadeira. Obrigada por estar aqui. Entre tarefas e abraços, você está construindo uma nova história.
